@@ -1,1 +1,1 @@
-# Fuzzy-Logic-and-Control-Course-Project
+# Fuzzy-Logic-and-Control-Course-Project - [pdf](Fuzzy%20Logic-Based%20Image%20Quality%20Control/fuzzy/project/報告/Fuzzy%20Logic-Based%20Image%20Quality%20Control.pdf)
